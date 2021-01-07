@@ -4707,10 +4707,10 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-plaid-link-sdk@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-plaid-link-sdk/-/react-native-plaid-link-sdk-4.0.1.tgz#a1799c7b401d479698530c4263ef67bf0a1c3b3e"
-  integrity sha512-m5fo6Js4glTejdslW9tBjFipiSdRZDIepNQXWmUbwfTV5ubztBgd5bw0UAqU8Cz9leGFkIPdF6GePsZPjnOT6Q==
+react-native-plaid-link-sdk@6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-plaid-link-sdk/-/react-native-plaid-link-sdk-6.0.4.tgz#43b41cf414b5333db906e66022e31a77626887b1"
+  integrity sha512-Tww6yuW0dnTVRW/PxstiNiyn8bjyjiVdOCEwzigxnGNd5YaqEpHx5X1u4886NMkT8wd5lMA7y6A56BdVsnt3tw==
   dependencies:
     prop-types "^15.7.2"
 
